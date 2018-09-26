@@ -13,5 +13,7 @@ In order to query the twitter API, I created the application in my Twitter accou
 
 ### Files:
 wrangle_report.pdf: Details the wrangling process
+
 wrangle_act: Code for data wrangling and analysis
+
 act_report: Insights and visualizations
